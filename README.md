@@ -93,13 +93,6 @@ The current API only supports running pre-built flows — there is no way to cre
 
 → [Full proposal](./features/004-agent-native-workflow-authoring/ISSUE.md)
 
----
-
-## UX Improvements
-
-*More coming soon.*
-
----
 
 ---
 
